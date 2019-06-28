@@ -7,6 +7,7 @@ function reg() {
 function lost() {
 	window.location="lost.jsp";
 }
+
 </SCRIPT>
 <div class="main">
  <div class="narea"><div>
